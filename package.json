@@ -1,0 +1,11 @@
+{
+  "name": "tdd-timestamp-microservice",
+  "version": "0.0.1",
+  "description": "TDD version of the freeCodeCamp Timestamp Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Groves",
+  "license": "MIT"
+}
